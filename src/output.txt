@@ -1,0 +1,18 @@
+Model auc=0.973
+Model f1=0.966
+Average precision-recall score: 0.897
+Accuracy=0.965
+
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       248
+           1       0.92      0.96      0.94        99
+
+    accuracy                           0.97       347
+   macro avg       0.95      0.96      0.96       347
+weighted avg       0.97      0.97      0.97       347
+
+confusion matrix
+[[240   8]
+ [  4  95]]

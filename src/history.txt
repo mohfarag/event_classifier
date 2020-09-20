@@ -1,0 +1,500 @@
+   29  python3 --version
+   30  python3
+   31  cd Downloads/
+   32  python solr-python.py 
+   33  python solr-python.py 
+   34  python solr-python.py 
+   35  python solr-python.py 
+   36  python solr-python.py 
+   37  npm install -g @vue/cli
+   38  sudo npm install -g @vue/cli
+   39  npm i -g npm
+   40  sudo npm i -g npm
+   41  vue create vue-chat
+   42  cd vue-chat/
+   43  npm run serve
+   44  npm install bootstrap jquery popper.js
+   45  ls
+   46  cd public/
+   47  ls
+   48  cd ..
+   49  cd src/
+   50  ls
+   51  npm install firebase
+   52  python3 --version
+   53  python3
+   54  python
+   55  cd Downloads/
+   56  ls *.py
+   57  vi gen_data.py 
+   58  cd ..
+   59  ls *.py
+   60  history
+   61  history | grep title
+   62  cd Downloads/MachineTeaching-Dr.Riham/
+   63  python extractTitle.py > titles.txt
+   64  python extractTitle.py > titles.txt
+   65  python extractTitle.py > titles.txt
+   66  python extractTitle.py > titles.txt
+   67  python extractTitle.py > titles.txt
+   68  python extractTitle.py > titles.txt
+   69  python extractTitle.py > titles.txt
+   70  python extractTitle.py > titles.txt
+   71  conda create -n stanfordnlp python=3.7.1
+   72  source activate stanfordnlp
+   73  pip install stanfordnlp
+   74  python
+   75  source deactivate
+   76  jupyter notebook
+   77  cd /Applications/
+   78  cd weka-3-8-3-oracle-jvm.app/
+   79  ls
+   80  cd Contents/
+   81  ls
+   82  cd MacOS/
+   83  ls
+   84  ./JavaAppLauncher 
+   85  find libfreetype.6.dylib
+   86  find / -name "libfreetype.6.dylib"
+   87  ls /usr/X11/lib/libfreetype.6.dylib 
+   88  cd ..
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd ..
+   93  ls
+   94  cd weka-3-8-3
+   95  ls
+   96  java -jar weka.jar
+   97  pip install tenserflow
+   98  sudo pip install tensorflow
+   99  python
+  100  python
+  101  cd work/AAST/Teaching-now\ On\ HARDisk/
+  102  cd Spring\ 2018/UnderGraduate/CS244-Advanced\ Programming\ Applications/
+  103  cd Lectures/Lec\ 10-networking/
+  104  cd Code/
+  105  ls
+  106  cd single\ client\ server-cmd/
+  107  ls
+  108  pwd
+  109  cd client/
+  110  java Client
+  111  java Client
+  112  python
+  113  cd Downloads/solr-7.5.0/
+  114  ls
+  115  ssh mmagdy@efc1.cs.vt.edu
+  116  twarc filter Christchurch > Christchurch-filter.jsonl
+  117  twarc configure
+  118  twarc --access_token
+  119  twarc --access_token 248487038-FEVOOnDtgg3YOdkAVwtIYGRAMj5XJMwPygiAO0uw
+  120  twarc --access_token 248487038-FEVOOnDtgg3YOdkAVwtIYGRAMj5XJMwPygiAO0uw --access_token_secret 4NprN8JcQWLj71x9Zq6AQtaxgVQaXaZ5QQvQIbcbNui9J
+  121  twarc search christchurch > NewZelandChristChurch.jsonl
+  122  python
+  123  python
+  124  cd christchurch-shooting/
+  125  ls
+  126  python test.py fil1 fil2 fil3
+  127  ls
+  128  cat Christchurch-* > christchurchAll.txt
+  129  cat NewZelandChristChurch-urls-NoTwitter.txt christchurchAll.txt > christchurch-AllURLs.txt 
+  130  cat Christchurch-K* > christchurchAll.txt
+  131  cat NewZelandChristChurch-urls-NoTwitter.txt christchurchAll.txt > christchurch-AllURLs.txt 
+  132  cat NewZelandChristChurch-urls-NoTwitter.txt christchurchAll.txt > christchurch-AllURLs.txt cat christchurch-AllURLs.txt | sort -nr > christchurch-AllURLsSorted.txt 
+  133  cat NewZelandChristChurch-urls-NoTwitter.txt christchurchAll.txt > christchurch-AllURLs.txt 
+  134  cat christchurch-AllURLs.txt | sort -nr > christchurch-AllURLsSorted.txt 
+  135  cat christchurch-AllURLs.txt | sort -k2 > christchurch-AllURLsSorted.txt 
+  136  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  137  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  138  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  139  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  140  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  141  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  142  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  143  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  144  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  145  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  146  python sumFreq.py christchurch-AllURLsSorted.txt > christchurch-AllUniqueURLsSorted.txt
+  147  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  148  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  149  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  150  pip install urllib
+  151  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  152  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  153  cat christchurch-AllUniqueURLsSorted.txt | twarc-master/utils/unshrtn-FromFile.py > christchurch-AllUniqueURLsLong.txt 
+  154  jupyter
+  155  jupyter notebook
+  156  jupyter notebook
+  157  cd work/AAST/Teaching-now\ On\ HARDisk/Spring\ 2018/UnderGraduate/CS244-Advanced\ Programming\ Applications/Lectures/Lec#8\ JavaFX\ Events/JavaFXApplicationDemo/
+  158  ls
+  159  cd src/
+  160  cd javafxapplication4/
+  161  java JavaFXApplication4
+  162  cd ..
+  163  java javafxapplication4/JavaFXApplication4
+  164  java JavaFXApplication4
+  165  java javafxapplication4.JavaFXApplication4
+  166  java javafxapplication4.JavaFXApplication4
+  167  jupyter notebook
+  168  history
+  169  twarc search 'sri lanka' > sriLankaExplosions-1.jsonl
+  170  cd sriLanka
+  171  python twitter_streaming.py 'sri lanka' > sriLanka.json
+  172  python twitter_streaming.py 'sri lanka' > sriLanka2.json
+  173  history | grep ssh
+  174  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  175  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  176  history | grep ssh
+  177  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  178  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  179  cd /Users/mohamedm\.g\.farag/integration
+  180  gfortran
+  181  pip install PyPDF2
+  182  ssh mmagdy@vis.dlib.vt.edu
+  183  cd tutorial/
+  184  python main.py 
+  185  ls
+  186  pwd
+  187  mkdir tutorial
+  188  cd tutorial/
+  189  touch main.py
+  190  ls
+  191  touch -h
+  192  pip3 install flask-restful
+  193  ls
+  194  python main.py 
+  195  python main.py 
+  196  python main.py 
+  197  help("modules")
+  198  python
+  199  python3 main.py 
+  200  exit
+  201  /Users/mohamedm.g.farag/.anaconda/navigator/a.tool ; exit;
+  202  python
+  203  python3
+  204  pip3 install tensorflow==2.0.0-alpha0
+  205  python3
+  206  exit
+  207  /Users/mohamedm.g.farag/.anaconda/navigator/a.tool ; exit;
+  208  find Moh_Magdy
+  209  cd /Volumes/
+  210  ls
+  211  cd Moh_Magdy/
+  212  ls
+  213  du -h *
+  214  du -sh *
+  215  cd hadoopNodeData/
+  216  ls
+  217  du -sh *
+  218  cd streaming/
+  219  ls
+  220  ls -halt
+  221  du -sh *
+  222  cd downloadLongURLs/
+  223  ls
+  224  du -sh *
+  225  cd z602Webpages/
+  226  ls
+  227  pwd
+  228  cd ..
+  229  cd ..
+  230  cd ..
+  231  cd ..
+  232  cd Laptop/
+  233  du -sh *
+  234  cd personal-Mac/
+  235  ls
+  236  du -sh *
+  237  du -sh * | grep *G
+  238  du -sh * | grep -n G
+  239  du -sh * | grep -n [0-9]{1,3}G
+  240  du -sh * | grep -n '[0-9]{1,3}G'
+  241  du -sh ./*/
+  242  du -sh ./*/ | grep G
+  243  unshrtn
+  244  twarc
+  245  python
+  246  python3
+  247  pip3 install scikit-multiflow
+  248  cd
+  249  ssh mmagdy@efc1.cs.vt.edu
+  250  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  251  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  252  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  253  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  254  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  255  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  256  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  257  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  258  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  259  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  260  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  261  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  262  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  263  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  264  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  265  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  266  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  267  ssh mmagdy@hadoop.dlib.vt.edu -p 2222
+  268  /anaconda2/bin/jupyter_mac.command ; exit;
+  269  ssh mmagdy@efc1.cs.vt.edu
+  270  ssh mmagdy@efc1.cs.vt.edu
+  271  ssh -NL 1234:localhost:1234 mmagdy@efc1.cs.vt.edu
+  272  ssh mmagdy@efc1.cs.vt.edu
+  273  ssh mmagdy@efc1.cs.vt.edu
+  274  ssh mmagdy@efc1.cs.vt.edu
+  275  ssh mmagdy@efc1.cs.vt.edu
+  276  ssh mmagdy@efc1.cs.vt.edu
+  277  ssh mmagdy@efc1.cs.vt.edu
+  278  ssh mmagdy@efc1.cs.vt.edu
+  279  cd Downloads/AmrHilal-SamyElTawab/
+  280  git clone https://code.vt.edu/dataservices/informaticslab/smartparking.git
+  281  git clone https://code.vt.edu/dataservices/informaticslab/smartparking.git
+  282  cd smartparking/
+  283  ls
+  284  git add README.md 
+  285  git add .
+  286  git commit -m "Initial commit"
+  287  git push
+  288  git push origin
+  289  ls
+  290  rm README.md 
+  291  git commit -m "Initial commit"
+  292  git branch --unset-upstream
+  293  git commit -m "Initial commit"
+  294  git pull
+  295  git branch --set-upstream-to=origin/ master
+  296  git branch --set-upstream-to=origin/master
+  297  git pull
+  298  git commit -m "Initial commit"
+  299  cd ..
+  300  git clone https://code.vt.edu/dataservices/informaticslab/smartparking.git
+  301  cd smartparking/
+  302  git add .
+  303  git commit -m "Initial commit"
+  304  git push origin master
+  305  /Applications/Python\ 3.7/Install\ Certificates.command ; exit;
+  306  jupyter lab
+  307  jupyter notebook
+  308  cd
+  309  python3
+  310  pip3 install bs4
+  311  pip3 install --upgrade pip3
+  312  pip3 install --upgrade pip
+  313  cd Downloads/Eslam/
+  314  ls
+  315  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  316  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  317  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  318  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  319  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  320  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  321  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  322  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  323  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  324  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  325  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  326  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  327  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  328  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  329  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  330  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  331  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  332  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  333  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  334  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  335  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  336  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  337  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  338  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  339  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  340  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  341  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  342  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  343  python extractFromHomepage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1510722564_Homepage.html 
+  344  python extractFromHomepage.py add_to_list/control/day01/action/Day01_2020_03_04_ItemId_01_ASIN_1101884231_Homepage.html 
+  345  python extractFromHomepage.py add_to_list/control/day01/action/Day01_2020_03_04_ItemId_02_ASIN_1510722564_Homepage.html 
+  346  python extractFromHomepage.py browse/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_Homepage.html 
+  347  python extractFromHomepage.py browse/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1510722564_Homepage.html 
+  348  cd
+  349  python3
+  350  git clone https://github.com/misja/python-boilerpipe.git
+  351  cd python-boilerpipe/
+  352  pip3 install -r requirements.txt 
+  353  python3 setup.py install
+  354  virtualenv env
+  355  source env/bin/activate
+  356  pip install -r requirements.txt 
+  357  deactivate
+  358  pwd
+  359  source env/bin/activate
+  360  pip3 install -r requirements.txt
+  361  deactivate
+  362  ls
+  363  python3 setup.py install
+  364  sudo python3 setup.py install
+  365  sudo python3 setup.py install
+  366  cd Downloads/christChurch-Classifier/data/
+  367  ls
+  368  cd ../web\ archiving/
+  369  ls
+  370  cd test/
+  371  ls
+  372  wget --input-file=test.txt 
+  373  wget --spdier --input-file=test.txt 
+  374  wget --spider --input-file=test.txt 
+  375  wget -E --input-file=test.txt 
+  376  wget -q --spider https://www.tvnz.co.nz/one-news/new-zealand/us-website-labels-nz-s-hole-country-refuses-help-police-in-christchurch-terror-attack-investigation
+  377  echo $?
+  378  s=wget -q --spider https://www.tvnz.co.nz/one-news/new-zealand/us-website-labels-nz-s-hole-country-refuses-help-police-in-christchurch-terror-attack-investigation
+  379  wget -nv --spider https://www.tvnz.co.nz/one-news/new-zealand/us-website-labels-nz-s-hole-country-refuses-help-police-in-christchurch-terror-attack-investigation
+  380  s=`wget -q --spider https://www.tvnz.co.nz/one-news/new-zealand/us-website-labels-nz-s-hole-country-refuses-help-police-in-christchurch-terror-attack-investigation`
+  381  echo $s
+  382  echo "$s"
+  383  wget -nv -E --input-file=test.txt 
+  384  wget -nv -E --input-file=test.txt > out.txt
+  385  wget -O out.txt -nv -E --input-file=test.txt
+  386  wget -nv -E --input-file=test.txt 2> out.txt
+  387  ls
+  388  downloadWebpages.sh
+  389  ./downloadWebpages.sh 
+  390  ./downloadWebpages.sh test.txt 
+  391  ./downloadWebpages.sh test.txt 
+  392  ./downloadWebpages.sh test.txt 
+  393  ./downloadWebpages.sh test.txt 
+  394  ./downloadWebpages.sh test.txt 
+  395  ./downloadWebpages.sh test.txt 
+  396  cd ..
+  397  cd ..
+  398  ls
+  399  cd src/
+  400  python
+  401  python3
+  402  python3
+  403  pip3 install requests, requests-cache
+  404  pip3 install requests
+  405  pip3 install  requests-cache
+  406  python3
+  407  python3
+  408  python3
+  409  python3
+  410  python3
+  411  python3
+  412  python3
+  413  python3
+  414  cd ../
+  415  cd web-retrieving-archiving/
+  416  cd test/
+  417  ls
+  418  ./downloadWebpages.sh test.txt 
+  419  ls
+  420  cd ..
+  421  cd ..
+  422  cd data/
+  423  ls
+  424  cd 0/
+  425  ls
+  426  ./downloadWebpages.sh not-relevant.txt 
+  427  cd ../1
+  428  ls
+  429  ./downloadWebpages.sh relevant.txt 
+  430  ./downloadWebpages.sh relevant.txt 
+  431  ./downloadWebpages.sh relevant.txt 
+  432  ./downloadWebpages.sh relevant.txt 
+  433  ./downloadWebpages.sh relevant.txt 
+  434  wget -O 514.html https://www.iur.nl/2019/03/15/terrorist-attacks-new-zealand/
+  435  cd ../0/
+  436  wget -O 1638.html https://www.dailymail.co.uk/sciencetech/article-6826961/UK-scientists-join-race-lab-grown-meat-Pig-cells-cultured-blades-grass.html.html 
+  437  python3
+  438  ls
+  439  cd ..
+  440  cd ..
+  441  cd ..
+  442  cd src/
+  443  python extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  444  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  445  pip3 install bs4
+  446  pip3 install bs4
+  447  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  448  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  449  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  450  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  451  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  452  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  453  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  454  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  455  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  456  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  457  python3 extractTxtFromHTML.py ../data/raw/0 ../data/text/0
+  458  cd ../data/raw/0/
+  459  wget -O 25.html https://www.cordeledispatch.com/2019/03/18/two-charged-with-murder-in-rochelle-birthday-party-shooting-death/
+  460  rm 25.html
+  461  wget -O 25.html https://www.cordeledispatch.com/2019/03/18/two-charged-with-murder-in-rochelle-birthday-party-shooting-death/
+  462  wget -O 25.html --user-agent=" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"  https://www.cordeledispatch.com/2019/03/18/two-charged-with-murder-in-rochelle-birthday-party-shooting-death/
+  463  URL=https://www.bloomberg.com/news/articles/2019-03-19/glossier-is-nyc-s-newest-unicorn-with-1-2-billion-valuation
+  464  wget -O 25.html --user-agent=" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"  $URL
+  465  wget -O 25.html --user-agent=" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"  https://www.cordeledispatch.com/2019/03/18/two-charged-with-murder-in-rochelle-birthday-party-shooting-death/
+  466  wget -O 35.html --user-agent=" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"  $URL
+  467  python3
+  468  cd ..
+  469  cd ..
+  470  cd ..
+  471  cd src/
+  472  python3
+  473  cd ../data/
+  474  cd text/
+  475  ls
+  476  cd 1
+  477  ls
+  478  cd ../0
+  479  ls
+  480  ls -halt
+  481  python3
+  482  pip3 install spacy
+  483  python3
+  484  python -m spacy download en_core_web_sm
+  485  python3 -m spacy download en_core_web_sm
+  486  python3
+  487  cd
+  488  cd Downloads/Eslam/
+  489  ls
+  490  python extractCategoryFromItemPage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_ItemPage.html 
+  491  python extractCategoryFromItemPage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_ItemPage.html 
+  492  python extractCategoryFromItemPage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1101884231_ItemPage.html 
+  493  python extractCategoryFromItemPage.py add_to_cart/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1510722564_ItemPage.html 
+  494  python extractCategoryFromItemPage.py add_to_list/control/day01/action/Day01_2020_03_04_ItemId_01_ASIN_1101884231_ItemPage.html 
+  495  python extractCategoryFromItemPage.py add_to_list/control/day01/action/Day01_2020_03_04_ItemId_02_ASIN_1510722564_ItemPage.html 
+  496  python extractCategoryFromItemPage.py browse/control/day01/action/Day01_2020_03_03_ItemId_01_ASIN_1101884231_ItemPage.html 
+  497  python extractCategoryFromItemPage.py browse/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1510722564_ItemPage.html 
+  498  python extractCategoryFromItemPage.py browse/control/day01/action/Day01_2020_03_03_ItemId_02_ASIN_1510722564_ItemPage.html 
+  499  python3
+  500  python3
+  501  pip install pywebcopy
+  502  python
+  503  python3
+  504  cd Downloads/
+  505  pwd
+  506  python archive.py http://www.vdh.virginia.gov/coronavirus/
+  507  python3 archive.py http://www.vdh.virginia.gov/coronavirus/
+  508  python3 archive.py http://www.vdh.virginia.gov/coronavirus/
+  509  ps aux
+  510  ps aux | python3
+  511  ps aux | grep python3
+  512  kill -9 17305
+  513  ps aux | grep python
+  514  ps aux | grep python3
+  515  pip uninstall pywebcopy
+  516  pip install pywb
+  517  cd Test/
+  518  wb-manager init covid-19
+  519  wayback --record --live -a -auto-interval 10
+  520  wayback --record --live -a --auto-interval 10
+  521  cd ..
+  522  cd christChurch-Classifier/
+  523  cd src/
+  524  python extractTxtFromHTML.py ../data/raw/1 ../data/text/1
+  525  python extractTxtFromHTML.py ../data/raw/1 ../data/text/1
+  526  python extractTxtFromHTML.py ../data/raw/1 ../data/text/1
+  527  python3 extractTxtFromHTML.py ../data/raw/1 ../data/text/1
+  528  history > history.txt
